@@ -8,7 +8,9 @@
 现在更改为masks = mask_a,mask_b,mask_l
 并**要使masks能够在全部代码中应用**。
 **目前mask进度**
-![[Pasted image 20241013215018.png]]
+
+![CSDN图标](https://github.com/ggtz/RL-robotic/blob/main/Pasted%20image%2020241013215031.png "CSDN图标")
+
 
 ## 所遇难处
 目前在解决masks部署问题
